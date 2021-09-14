@@ -1,5 +1,5 @@
 # Dio.Series
-Projeto do Bootcamp Decola Tech da Avanade pela Digital Innovation One.
+** Projeto do Bootcamp Decola Tech da Avanade pela Digital Innovation One.
 
 * Criando um APP simples de cadastro de séries em .NET
 
